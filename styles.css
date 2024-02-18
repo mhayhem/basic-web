@@ -1,0 +1,23 @@
+body {
+    background-color: #1d1227;
+    color: #fff;
+    font-family: "overpass mono", monospace;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    padding-top: 8px;
+    margin: 0 0 0 8px;
+}
+
+.bar {
+    background-color: #464b55;
+    padding: 10px;
+    display: flex;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
